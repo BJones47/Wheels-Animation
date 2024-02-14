@@ -1,8 +1,5 @@
 ; *****************************************************************
 ;  Name: Braxton Jones
-;  NSHE ID: 5007333716
-;  Section: 1003
-;  Assignment: 10
 ;  Description:  This program will draw and animate a circle using OpenGL.
 
 ; -----

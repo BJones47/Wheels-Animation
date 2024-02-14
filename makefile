@@ -1,5 +1,4 @@
-# CS 218 Assignment #10
-# Simple make file for asst #10
+# Simple make file 
 
 OBJS	= wheels.o a10procs.o
 ASM	= yasm -g dwarf2 -f elf64
